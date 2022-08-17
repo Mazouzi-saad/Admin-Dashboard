@@ -1,0 +1,1 @@
+hiiiiii<?php /**PATH C:\xampp\htdocs\dashboard\resources\views/welcome.blade.php ENDPATH**/ ?>
